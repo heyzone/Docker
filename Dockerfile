@@ -1,4 +1,4 @@
-FROM harrywujy/huggingfacekid:latest
+FROM huggingfacekid:latest
 EXPOSE 5000
 WORKDIR /app
 COPY files/* /app/
