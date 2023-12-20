@@ -1,5 +1,5 @@
-FROM node:latest
-EXPOSE 3000
+FROM harrywujy/huggingfacekid:latest
+EXPOSE 5000
 WORKDIR /app
 COPY files/* /app/
 
