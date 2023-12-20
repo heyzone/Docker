@@ -4,7 +4,7 @@
   "description": "Express Hello World",
   "main": "server.js",
   "repository": "https://github.com/fscarmen2/Argo-X-Container-PaaS",
-  "author": "fscarmen",
+  "author": "harrywujy",
   "license": "MIT",
   "private": false,
   "scripts": {
